@@ -65,6 +65,8 @@ Ntheory Functions Reference
 
 .. autofunction:: totient
 
+.. autofunction:: reduced_totient
+
 .. autofunction:: divisor_sigma
 
 .. autofunction:: udivisor_sigma
@@ -72,6 +74,10 @@ Ntheory Functions Reference
 .. autofunction:: core
 
 .. autofunction:: digits
+
+.. autofunction:: primenu
+
+.. autofunction:: primeomega
 
 .. module:: sympy.ntheory.modular
 
@@ -126,6 +132,8 @@ Ntheory Functions Reference
 .. autofunction:: legendre_symbol
 
 .. autofunction:: jacobi_symbol
+
+.. autofunction:: discrete_log
 
 .. automodule:: sympy.ntheory.continued_fraction
     :members:
